@@ -1,4 +1,4 @@
-JOBDESCRIPTION:00001
+ID:00001
 TITLE:Machine Learning/NLP Engineer
 META:Company Name Netpace  Company Location San Francisco, California
 Skills: Python, Machine Learning, NLP
@@ -12,7 +12,7 @@ Work experience
 - Experience with sklearn, keras, tensorflow, etc.
 - Consistently delivers tests and lint free code
 |||||
-JOBDESCRIPTION:00002
+ID:00002
 TITLE:Machine Learning / Deep Learning / Data Engineer
 META:Company Name GrokStyle  Company Location San Francisco, California
 GrokStyle is a deep learning AI company, focused on building fine-grained recognition systems for retail and e-commerce applications. We provide new capabilities to consumers and retailers to assist in matching a consumer’s desired product with the correct or closest matching product based on visual similarity, given a photograph on the web or one taken on their cell phone.
@@ -23,7 +23,7 @@ Experience with machine learning, training classifiers, train/ test split etc.
 Experience with setting up pipelines for realworld machine learning problems, and processing/ preparing real datasets
 Bonus skills: Experience with Javascript, HTML, CSS, or experience with Django, Postgres and Celery. Prior computer vision expertise is a big addition
 |||||
-JOBDESCRIPTION:00003
+ID:00003
 TITLE:Deep Learning Researcher (Natural Language Processing)
 META:Company Name Big Cloud  Company Location San Francisco, California
 Deep learning researcher required to support the CTO of a highly successful and specialized intelligent search company that supports the world's most lucrative industry.
@@ -37,7 +37,7 @@ In-depth knowledge of; machine learning, deep learning, reinforcement learning, 
 Expert programmer
 Experience with deep learning frameworks and toolkits
 |||||
-JOBDESCRIPTION:00004
+ID:00004
 TITLE:Computer Vision Engineer
 META:Company Name Argo AI  Company Location San Francisco Bay Area
 At Argo AI, we are working to transform the world of transportation by bringing fully autonomous self-driving cars safely into widespread use. We already have some of the world’s most experienced leaders in the field, with expertise ranging from complex robotics algorithms to production software development to sophisticated hardware design and production. We are looking for highly motivated, technically deep engineers and applied scientists to join our team and help us realize this vision.
@@ -51,7 +51,7 @@ Strong presentation and communication skills are desired.
 Education:
 A Master's degree or equivalent experience is required for this position.
 |||||
-JOBDESCRIPTION:00005
+ID:00005
 TITLE:Machine Learning Engineer
 META:Company Name Dropbox  Company Location San Francisco, CA, US
 Machine Learning Engineer
@@ -68,5 +68,5 @@ Three years experience building machine learning or AI systems
 Strong analytical and problem-solving skills
 Solid software engineering skills across multiple languages including but not limited to Python, C/C++
 Experience with machine learning software packages ( e.g., scikit-learn, TensorFlow, Caffe, Theano, Torch)
-
+|||||
 
