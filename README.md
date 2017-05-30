@@ -15,7 +15,7 @@ Please complete at least one of the following tasks:
 
 A) Generate 1) keywords and 2) skills for each of the job descriptions using some form natural language processing on the text.
 
-B) Using (A) and/or queries.txt build a train/infer model that uses the queries of ID:00001-00004 to infer query-scores for ID:00005.
+B) Using (A) and/or queries.txt build a train/infer Tensorflow model that uses the queries of ID:00001-00004 to infer query-scores for ID:00005.
 
 Note: You will not be evaluated on the quality of your resumes -- there is very little data -- but on the quality of your process and its structure. 
 
